@@ -14,47 +14,36 @@ class About extends React.Component {
           porcentage: "90%",
           value: "90"
         },
-        { id: "PHP_skill", content: "PHP", porcentage: "70%", value: "70" },
         {
           id: "ReactJS_skill",
           content: "ReactJS",
           porcentage: "80%",
           value: "80"
         },
-        {
-          id: "Python_skill",
-          content: "Python",
-          porcentage: "75%",
-          value: "75"
-        },
-        {
-          id: "VanillaJS_skill",
-          content: "VanillaJS",
-          porcentage: "85%",
-          value: "85"
-        },
+       
+       
         {
           id: "Wordpress_skill",
-          content: "Wordpress",
-          porcentage: "80%",
-          value: "80"
+          content: "Redux",
+          porcentage: "50%",
+          value: "50"
         }
       ],
       about_me: [
         {
           id: "first-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "TECHNICAL SKILLS:   Programming Languages: JavaScript, HTML 5, CSS, React.js, NodeJS  Operating Systems: Windows, Mac OS Software: MS Visual Studio, Adobe Suite  "
         },
         {
           id: "second-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "CERTIFICATES:  Udacity Certified Front End Development Track Udacity, Inc Udacity Certified Full Stack Development Track Udacity, Inc Bobir Akilkhanov Tech Academy Certified Full Stack Development Track Bobir Akilkhanov Tech Academy"
         },
         {
           id: "third-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "PROJECTS:  SELF PROJECT: {CALCULATOR } TECHNOLOGIES: HTML, CSS, JAVASCRIPT SELF PROJECT: {CV ABOUT ME } TECHNOLOGIES: REACT, JS, CSS  SELF PROJECT: {PRICE TRACKER } TECHNOLOGIES: REACT, JS, CSS  SELF PROJECT: {LOGIN/REGISTER FORM } TECHNOLOGIES: REACT / REDUX, JS, CSS, MUI"
         }
       ]
     };

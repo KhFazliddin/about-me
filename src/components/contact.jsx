@@ -124,7 +124,10 @@ class Contact extends React.Component {
                               rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
-                                <i className="ion-social-codepen"></i>
+                                <a href="https://www.facebook.com/fazliddin.khasanov.5">
+                                  {" "}
+                                  <i className="ion-social-facebook"></i>
+                                </a>
                               </span>
                             </a>
                           </li>
@@ -135,7 +138,10 @@ class Contact extends React.Component {
                               rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
-                                <i className="ion-social-github"></i>
+                                <a href="https://github.com/KhFazliddin">
+                                  {" "}
+                                  <i className="ion-social-github"></i>
+                                </a>
                               </span>
                             </a>
                           </li>
@@ -146,7 +152,9 @@ class Contact extends React.Component {
                               rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
-                                <i className="ion-social-linkedin"></i>
+                                <a href="https://gmail.com">
+                                  <i className="ion-social-googleplus"></i>
+                                </a>
                               </span>
                             </a>
                           </li>
@@ -163,8 +171,7 @@ class Contact extends React.Component {
           <div className="container">
             <div className="row">
               <div className="col-sm-12">
-                <div className="copyright-box">
-                </div>
+                <div className="copyright-box"></div>
               </div>
             </div>
           </div>
